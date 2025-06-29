@@ -19,12 +19,7 @@ Designed as a digital fortress with a file explorer feel, it supports drag-and-d
 
 ---
 
-## 📷 Screenshots
 
-> _(Add your screenshots or GIFs here)_  
-> Drag in images showing the main GUI, nested folders, and a media preview popup.
-
----
 
 ## 🔧 Installation
 
