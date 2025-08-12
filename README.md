@@ -26,5 +26,5 @@ Designed as a digital fortress with a file explorer feel, it supports drag-and-d
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/spfx-vault.git
+git clone https://github.com/benjaminmolla/spfx-vault.git
 cd spfx-vault
